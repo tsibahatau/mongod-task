@@ -1,0 +1,1 @@
+mongo task_2_load_data.js

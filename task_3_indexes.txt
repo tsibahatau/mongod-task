@@ -1,2 +1,0 @@
-db.authors.createIndex({login : 1})
-db.articles.createIndex({author : 1})

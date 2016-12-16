@@ -1,0 +1,1 @@
+mongo task_3_indexes.js
